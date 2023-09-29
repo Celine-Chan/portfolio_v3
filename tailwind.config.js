@@ -7,6 +7,7 @@ module.exports = {
     extend: {
       fontFamily: {
         'bebasNeue': ['Bebas neue', 'sans-serif'],
+        'playfairDisplay': ['Playfair Display', 'serif'],
       },
     },
   },
