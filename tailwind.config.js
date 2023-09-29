@@ -5,9 +5,9 @@ module.exports = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        'homePage': "url('/assets/img/skyNight_opacity70.jpg')",
-      }
+      fontFamily: {
+        'bebasNeue': ['Bebas neue', 'sans-serif'],
+      },
     },
   },
   plugins: [],
