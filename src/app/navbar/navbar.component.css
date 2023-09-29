@@ -1,0 +1,7 @@
+.hoverTextMenu:hover {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-color: #B08FA4;
+    text-decoration-thickness: 3px;
+    text-shadow: #B08FA4 5px 0 10px;
+}
