@@ -8,6 +8,7 @@ module.exports = {
       fontFamily: {
         'bebasNeue': ['Bebas neue', 'sans-serif'],
         'playfairDisplay': ['Playfair Display', 'serif'],
+        'libreBaskerville': ['Libre Baskerville', 'serif'],
       },
     },
   },
